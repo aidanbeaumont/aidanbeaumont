@@ -1,4 +1,8 @@
-## Hi there 👋
+# 👋 Hi, I'm Aidan
+I'm a Penultimate-Year Medical Student and aspiring academic clinician based in London.
+
+- 🧠 I'm currently learning the basics of computer science (through CS50, and some python projects)
+- 💭 I'm thinking about how data and technical skills can be used in my future career
 
 <!--
 **aidanbeaumont/aidanbeaumont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
